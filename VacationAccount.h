@@ -1,0 +1,8 @@
+//
+// Created by Max on 2/24/2022.
+//
+
+#ifndef PROJ5_VACATIONACCOUNT_H
+#define PROJ5_VACATIONACCOUNT_H
+
+#endif //PROJ5_VACATIONACCOUNT_H
